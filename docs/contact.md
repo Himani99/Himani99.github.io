@@ -3,19 +3,9 @@
 I'm always open to discussing new projects, opportunities, or just chatting about technical writing.
 
 <div class="contact-links">
-
-<a href="mailto:himani.sharma2199@gmail.com" class="contact-link">
-:material-email: Email Me
-</a>
-
-<a href="https://github.com/Himani99" class="contact-link" target="_blank">
-:fontawesome-brands-github: GitHub
-</a>
-
-<a href="https://linkedin.com/in/himani698/" class="contact-link" target="_blank">
-:fontawesome-brands-linkedin: LinkedIn
-</a>
-
+[:material-email: Email Me](mailto:himani.sharma2199@gmail.com){.contact-link}
+[:fontawesome-brands-github: GitHub](https://github.com/Himani99){.contact-link target="_blank"}
+[:fontawesome-brands-linkedin: LinkedIn](https://linkedin.com/in/himani698/){.contact-link target="_blank"}
 </div>
 
 ## Let's Work Together
