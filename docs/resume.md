@@ -80,4 +80,4 @@ Built an AI-driven platform converting natural language to editable flow diagram
 
 ## Download
 
-[Download Resume as PDF](../assets/resume.pdf)
+[Download Resume as PDF](assets/resume.pdf)
