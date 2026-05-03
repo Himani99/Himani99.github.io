@@ -51,7 +51,7 @@ extra:
       name: Himani Sharma on LinkedIn
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/himani_sharma
-      name: @himani_sharma
+      name: "@himani_sharma"
 
 plugins:
   - search
