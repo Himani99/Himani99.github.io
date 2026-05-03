@@ -5,9 +5,8 @@ I offer technical writing services across a range of formats and engagement mode
 <div class="services-grid">
 
 <div class="service-card">
-<div class="service-icon">:material-api:</div>
 <h3>API Documentation</h3>
-- REST & GraphQL API references
+- REST &amp; GraphQL API references
 - OpenAPI/Swagger specifications
 - Interactive code examples
 - Authentication guides
@@ -16,8 +15,7 @@ I offer technical writing services across a range of formats and engagement mode
 </div>
 
 <div class="service-card">
-<div class="service-icon">:material-book-open-variant:</div>
-<h3>User Manuals & Guides</h3>
+<h3>User Manuals &amp; Guides</h3>
 - End-user documentation
 - Migration and upgrade guides
 - Quickstart tutorials
@@ -27,7 +25,6 @@ I offer technical writing services across a range of formats and engagement mode
 </div>
 
 <div class="service-card">
-<div class="service-icon">:material-code-braces:</div>
 <h3>Developer Content</h3>
 - Developer tutorials
 - SDK documentation
@@ -38,7 +35,6 @@ I offer technical writing services across a range of formats and engagement mode
 </div>
 
 <div class="service-card">
-<div class="service-icon">:material-chart-timeline-variant:</div>
 <h3>Documentation Strategy</h3>
 - Content audits and architecture
 - Style guide creation
@@ -65,7 +61,7 @@ Ideal for specific documentation deliverables with a clear scope and timeline.
 
 If you need a dedicated technical writer on your team, I'm open to full-time opportunities that align with my expertise.
 
-### Freelance & Retainer
+### Freelance &amp; Retainer
 
 For ongoing documentation needs, I offer monthly retainers that include a set number of hours for documentation work, reviews, and strategy sessions.
 

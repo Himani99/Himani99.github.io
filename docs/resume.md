@@ -1,81 +1,83 @@
 # Resume
 
 ## Himani Sharma
-**Senior Technical Writer**
+**Technical Writer**
+
+📧 himani.sharma2199@gmail.com | 📞 +91-9818395168 | 📍 New Delhi, India
+
+[LinkedIn](https://linkedin.com/in/himani698/) | [GitHub](https://github.com/Himani99)
 
 ---
 
-## Summary
+## Objective
 
-Technical writer with 8+ years of experience creating clear, user-centered documentation for SaaS platforms, developer tools, and enterprise software. Proven track record of reducing support costs, increasing developer satisfaction, and building documentation workflows that scale.
+Technical Writer with 2+ years of experience creating end-to-end documentation for complex software and developer platforms. Skilled in DITA-XML, structured authoring, API documentation, GitBook, and content systems.
 
 ---
 
 ## Experience
 
-### Senior Technical Writer — CloudSync Technologies
-*2022 — Present*
+### Technical Writer — Xplor Technologies
+*Dec 2025 – Present | Pune, India*
 
-- Lead documentation for a cloud infrastructure platform serving 10,000+ developers
-- Manage a team of 3 writers, establishing docs-as-code workflows and content standards
-- Maintain OpenAPI 3.0 specifications for 50+ REST API endpoints
-- Reduced API-related support tickets by 40% through improved documentation
-- Integrated automated documentation testing into CI/CD pipeline
+- Leading end-to-end documentation for the Xplor Pay Voyager Developer Center, covering merchant onboarding, payment workflows, and compliance requirements
+- Authoring and maintaining API documentation, integration guides, and operational procedures using GitBook and Confluence
+- Documenting processes including bank statement verification, virtual terminal transaction voids, webhook events, and payment lifecycle management
+- Collaborating with Product, Engineering, and Compliance teams to translate complex workflows into developer-friendly content
+- Restructured and reorganized the development center documentation to improve discoverability and developer experience
 
-### Technical Writer — SecureAuth Inc.
-*2019 — 2022*
+### Technical Product Publication Engineer — Synopsys Inc.
+*Sep 2023 – Dec 2025 | Noida, India*
 
-- Created API documentation, SSO migration guides, and security compliance documentation
-- Wrote a 45-page enterprise migration guide adopted as the company template
-- Reduced migration-related support tickets by 30%
-- Collaborated with support engineers to identify documentation gaps
-- Conducted usability testing with enterprise customers
-
-### Junior Technical Writer — DevTools Labs
-*2017 — 2019*
-
-- Created developer tutorials, SDK documentation, and release notes for a CI/CD platform
-- Introduced automated documentation testing, reducing doc bugs by 25%
-- Established the company's first style guide and documentation contribution guide
-- Ran documentation workshops for engineering teams
-
-### Content Strategist — Freelance
-*2016 — 2017*
-
-- Worked with 5 startups to establish documentation processes and content strategies
-- Created style guides, information architectures, and content plans for product launches
-- Trained engineering teams on documentation best practices
+- Created end-user documentation and release notes using DITA-XML in Oxygen XML
+- Applied UI/UX writing principles to craft intuitive user-centered content for web and in-app experiences
+- Managed the full documentation lifecycle, including requirement gathering, drafting, review, and publishing
+- Produced user guides, installation guides, application notes, and Quick Tip videos using Camtasia, SnagIt, and iSpeak
+- Collaborated with R&amp;D, AE, and QA teams for technical insights and product update alignment
+- Developed Python and Bash scripts to automate OLH build check-ins, reducing manual effort by 40%
+- Built an AI-driven Text-to-Diagram generator using Mermaid and SVG
+- Performed documentation analytics (CTR, engagement, top pages) to guide content strategy
 
 ---
 
 ## Education
 
-**Bachelor of Science in Computer Science**
-University of Delhi, 2016
+**Master of Science (Informatics)**
+Institute of Informatics and Communication, University of Delhi | 2021 – 2023
 
----
-
-## Certifications
-
-- Certified Professional Technical Communicator (CPTC)
-- Google Technical Writing Certificate
-- AWS Cloud Practitioner
+**Bachelor of Science (Hons.) (Instrumentation)**
+Shaheed Rajguru College of Applied Sciences, University of Delhi | 2017 – 2020
 
 ---
 
 ## Skills
 
-| Category | Tools & Technologies |
+| Category | Tools &amp; Technologies |
 |----------|---------------------|
-| Writing | Markdown, AsciiDoc, DITA, MadCap Flare, Confluence |
-| Technical | Git, GitHub, CI/CD, Python, JavaScript, HTML/CSS |
-| API Docs | OpenAPI/Swagger, Postman, Redoc, Stoplight |
-| Version Control | Git, GitHub, GitLab, Bitbucket |
+| Documentation | DITA-XML, Oxygen XML, GitBook, MkDocs, Jira, Confluence, MadCap Flare, Snagit |
+| Languages | Python, C++, JavaScript, TypeScript, SQL, Bash, HTML, XML, YAML, JSON, Markdown |
+| Frameworks | React.js, Next.js, Tailwind CSS, D3.js, Mermaid |
+| Dev Tools | Git, GitHub, Perforce, Vim, VSCode |
+
+---
+
+## Projects
+
+### AI Text-to-Diagram Generator (2025)
+*React.js, JavaScript, Tailwind, D3.js, Mermaid*
+
+Built an AI-driven platform converting natural language to editable flow diagrams with export support for documentation teams.
+
+---
+
+## Certifications
+
+- Coding Ninja: Introduction to C++
+- Coding Ninja: Data Structures and Algorithms in C++
+- APIsec University: API Documentation Best Practices
 
 ---
 
 ## Download
 
 [Download Resume as PDF](../assets/resume.pdf)
-
-*Replace `assets/resume.pdf` with your actual resume PDF file after deployment.*

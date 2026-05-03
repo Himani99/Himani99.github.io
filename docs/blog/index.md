@@ -4,30 +4,30 @@ Thoughts on technical writing, developer experience, and documentation strategy.
 
 ---
 
-## Writing for Developers: Lessons from 8 Years in the Trenches
+## Structured Authoring with DITA-XML: Why It Matters
 
-:material-calendar: May 1, 2026 &nbsp;&nbsp; :material-tag: writing craft &middot; developer experience
+:material-calendar: May 1, 2026 &nbsp;&nbsp; :material-tag: DITA-XML &middot; structured authoring
 
-After eight years of writing documentation for developers, I've learned that good technical writing is less about grammar and more about empathy. In this post, I share the principles that have shaped my approach.
+After working with DITA-XML at Synopsys for over two years, I've seen firsthand how structured authoring transforms documentation workflows. Here's why it matters and how to get started.
 
-[Read more →](posts/writing-for-developers.md)
-
----
-
-## Building a Documentation Strategy from Scratch
-
-:material-calendar: April 15, 2026 &nbsp;&nbsp; :material-tag: documentation strategy &middot; docs-as-code
-
-When I joined a startup with zero documentation, I had to build everything from scratch. Here's the framework I used—and how you can apply it to your own organization.
-
-[Read more →](posts/documentation-strategy.md)
+[Read more →](posts/structured-authoring-dita.md)
 
 ---
 
-## Why Your API Docs Are Failing (and How to Fix Them)
+## Automating Documentation Workflows with Python
 
-:material-calendar: March 28, 2026 &nbsp;&nbsp; :material-tag: API documentation &middot; developer experience
+:material-calendar: April 15, 2026 &nbsp;&nbsp; :material-tag: automation &middot; Python &middot; docs-as-code
 
-Most API documentation is written for the people who built the API, not the people who need to use it. Here are the five most common mistakes I see and how to avoid them.
+I reduced manual OLH build effort by 40% using Python and Bash scripts. Here's the framework I used — and how you can apply it to your own documentation processes.
+
+[Read more →](posts/automating-docs-python.md)
+
+---
+
+## Building a Developer Center from Scratch
+
+:material-calendar: March 28, 2026 &nbsp;&nbsp; :material-tag: developer experience &middot; API documentation
+
+Restructuring the Xplor Pay Voyager Developer Center taught me what developers actually need from documentation. Here are the key principles I followed.
 
 _Coming soon._

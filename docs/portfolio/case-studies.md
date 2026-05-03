@@ -1,39 +1,56 @@
 # Case Studies
 
-## Documentation Strategy for DevOps Startup
+## AI Text-to-Diagram Generator
 
-**Client:** DevTools Labs (Series A startup, 40 employees)
-**Duration:** 4 months
-**Role:** Documentation Consultant
+**Project Type:** Personal/Professional Development
+**Year:** 2025
+**Role:** Developer &amp; Technical Writer
 
 ### Challenge
 
-The startup had a great product but virtually no documentation. Engineering was overwhelmed with support questions, and the sales team struggled to explain the product's capabilities. They needed a documentation strategy from scratch.
+Documentation teams often struggle to create visual diagrams quickly. Traditional diagramming tools require manual effort and design skills. There was a need for a tool that could convert natural language descriptions into professional, editable diagrams.
 
 ### Approach
 
-1. **Content Audit & Architecture:** Mapped out all documentation needs (user guides, API docs, tutorials, FAQs) and created an information architecture.
-2. **Docs-as-Code Workflow:** Set up documentation in Git alongside code, using Markdown and a static site generator. Engineers could contribute through pull requests.
-3. **Style Guide:** Created a concise style guide covering tone, terminology, code examples, and formatting standards.
-4. **CI/CD Integration:** Automated documentation builds and deployment through GitHub Actions. Every merge updated the live docs site.
-5. **Training:** Ran workshops with engineers on writing documentation, reviewing docs PRs, and using the new workflow.
+1. **Full-Stack Development:** Built the platform using React.js, JavaScript, Tailwind CSS, and D3.js for the frontend.
+2. **Mermaid Integration:** Leveraged Mermaid.js for diagram rendering with support for multiple diagram types.
+3. **SVG Export:** Implemented export functionality for documentation team workflows.
+4. **User-Centered Design:** Designed an intuitive interface for technical and non-technical users alike.
 
-### Deliverables
+### Technologies
 
-- Information architecture document
-- Style guide (20 pages)
-- Documentation contribution guide for engineers
-- CI/CD pipeline for automated builds
-- Initial content: quickstart, 3 tutorials, API reference skeleton
-- Training materials and workshop recordings
+React.js, JavaScript, Tailwind CSS, D3.js, Mermaid, SVG
 
 ### Impact
 
-- **50% reduction** in engineering time spent on documentation tasks
-- **12 engineers** contributing to documentation within 3 months
-- **Customer satisfaction** score increased from 3.2 to 4.5
-- Documentation became a **selling point** in enterprise deals
+- Streamlined diagram creation for documentation teams
+- Reduced time-to-diagram from minutes to seconds
+- Export support for integration into existing documentation workflows
+
+---
+
+## OLH Build Automation at Synopsys
+
+**Client:** Synopsys Inc.
+**Duration:** Sep 2023 – Dec 2025
+**Role:** Technical Product Publication Engineer
+
+### Challenge
+
+The Online Help (OLH) build check-in process was entirely manual, consuming significant time and introducing opportunities for human error. The team needed an automated solution to streamline this critical workflow.
+
+### Approach
+
+1. **Script Development:** Developed Python and Bash scripts to automate the OLH build check-in process.
+2. **Process Mapping:** Analyzed the existing manual workflow to identify automation opportunities.
+3. **Testing &amp; Validation:** Ensured the automated process produced identical results to the manual workflow.
+
+### Impact
+
+- **40% reduction** in manual effort for OLH build check-ins
+- Eliminated human error in the build process
+- Freed up time for higher-value documentation work
 
 ### Tools Used
 
-MkDocs, Material for MkDocs, GitHub Actions, Markdown, Git, Vale (linting)
+Python, Bash, Git, Perforce

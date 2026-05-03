@@ -1,38 +1,31 @@
 # API Documentation
 
-## CloudSync REST API Reference
+## Xplor Pay Voyager Developer Center
 
-**Client:** CloudSync Technologies
-**Duration:** 6 months (ongoing maintenance)
-**Role:** Lead Technical Writer
+**Client:** Xplor Technologies
+**Duration:** Dec 2025 – Present
+**Role:** Technical Writer
 
 ### Challenge
 
-CloudSync needed a comprehensive API reference for their cloud infrastructure platform. The API had grown to 50+ endpoints across multiple services, and the existing documentation was scattered across Confluence pages, Slack threads, and developer knowledge.
+Xplor needed comprehensive developer documentation for the Pay Voyager platform, covering merchant onboarding, payment workflows, webhook events, and compliance requirements. The documentation needed to serve developers integrating with payment APIs while maintaining accuracy across rapidly evolving financial regulations.
 
 ### Approach
 
-1. **Inventory & Audit:** Cataloged all existing endpoints, identified gaps, and prioritized by usage analytics.
-2. **OpenAPI Specification:** Created and maintained OpenAPI 3.0 specs as source of truth, integrated into the CI/CD pipeline.
-3. **Interactive Examples:** Provided code samples in Python, JavaScript (Node.js), and cURL for every endpoint.
-4. **Developer Feedback Loop:** Ran usability sessions with 10 developers, iterated based on their feedback.
-5. **Automated Testing:** Integrated documentation tests into the CI pipeline to catch breaking changes before they reached production.
+1. **Developer Center Restructuring:** Reorganized the development center documentation to improve discoverability and developer experience.
+2. **API Documentation:** Authored and maintained API documentation, integration guides, and operational procedures using GitBook and Confluence.
+3. **Payment Workflow Coverage:** Documented processes including bank statement verification, virtual terminal transaction voids, webhook events, and payment lifecycle management.
+4. **Cross-Functional Collaboration:** Worked with Product, Engineering, and Compliance teams to translate complex workflows into developer-friendly content.
 
 ### Deliverables
 
-- Complete API reference with 50+ endpoints
-- OpenAPI 3.0 specification (YAML)
-- Interactive code examples in 3 languages
-- Authentication guide (OAuth 2.0, API keys)
-- Error reference with troubleshooting steps
-- Rate limiting and best practices guide
-
-### Impact
-
-- **40% reduction** in API-related support tickets
-- **2.5x increase** in developer portal engagement
-- **95% positive** feedback in developer survey
+- Complete developer center documentation
+- API reference for payment workflows
+- Integration guides for merchant onboarding
+- Webhook event documentation
+- Compliance requirement guides
+- Operational procedure documentation
 
 ### Tools Used
 
-OpenAPI, Swagger UI, Redoc, Python, JavaScript, Postman, GitHub Actions, Markdown
+GitBook, Confluence, REST APIs, JSON, YAML, Markdown

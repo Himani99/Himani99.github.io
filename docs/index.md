@@ -5,7 +5,7 @@ hide:
 
 <div class="hero-card">
 <div class="hero-name">Himani Sharma</div>
-<div class="hero-tagline">Technical Writer &mdash; Making Complex Things Clear</div>
+<div class="hero-tagline">Technical Writer &amp;mdash; Making Complex Things Clear</div>
 <div class="hero-cta">
 <a href="portfolio/" class="md-button md-button--primary">View Portfolio</a>
 <a href="contact/" class="md-button">Get in Touch</a>
@@ -14,37 +14,37 @@ hide:
 
 ## Hi, I'm Himani
 
-I'm a technical writer with 8+ years of experience turning complex technical concepts into clear, accessible documentation. I specialize in API documentation, developer guides, and user manuals for SaaS platforms and developer tools.
+I'm a technical writer with 2+ years of experience creating end-to-end documentation for complex software and developer platforms. I specialize in DITA-XML, structured authoring, API documentation, GitBook, and content systems.
 
-My work bridges the gap between engineering teams and the people who use their products. I believe that great documentation is not just about explaining features—it's about empowering users to succeed.
+Currently at **Xplor Technologies**, I lead documentation for the Xplor Pay Voyager Developer Center — covering merchant onboarding, payment workflows, and compliance requirements. I'm passionate about translating complex technical workflows into developer-friendly content.
 
 ---
 
 ## Featured Work
 
-### API Reference for CloudSync Platform
+### Xplor Pay Voyager Developer Center
 :material-file-document: API Documentation
 
-Complete REST API reference for CloudSync's developer platform, covering 50+ endpoints, authentication flows, and interactive code examples in Python, JavaScript, and cURL.
+Leading end-to-end documentation for the Xplor Pay Voyager Developer Center, covering merchant onboarding, payment workflows, webhook events, and compliance requirements using GitBook and Confluence.
 
-:material-tag-multiple: OpenAPI &middot; REST &middot; Swagger
+:material-tag-multiple: GitBook &middot; REST APIs &middot; Payments
 
 [View case study →](portfolio/api-docs.md)
 
-### Migration Guide for Enterprise SSO
-:material-book-open: User Guide
+### AI Text-to-Diagram Generator
+:material-code-braces: Developer Tool
 
-Step-by-step migration guide for enterprises transitioning from legacy authentication to SAML-based SSO. Includes troubleshooting, rollback procedures, and security best practices.
+Built an AI-driven platform converting natural language to editable flow diagrams with export support for documentation teams. Uses React.js, D3.js, Mermaid, and Tailwind CSS.
 
-:material-tag-multiple: SAML &middot; Enterprise &middot; Security
+:material-tag-multiple: React.js &middot; D3.js &middot; Mermaid &middot; AI
 
-[View case study →](portfolio/user-guides.md)
+[View case study →](portfolio/case-studies.md)
 
-### Documentation Strategy for DevOps Toolchain
+### Documentation Analytics &amp; Automation at Synopsys
 :material-strategy: Documentation Strategy
 
-Developed a documentation framework for a DevOps startup, establishing style guides, contribution workflows, and automated CI/CD integration for docs-as-code.
+Developed Python and Bash scripts to automate OLH build check-ins, reducing manual effort by 40%. Built an AI-driven Text-to-Diagram generator using Mermaid and SVG. Performed documentation analytics to guide content strategy.
 
-:material-tag-multiple: Docs-as-Code &middot; CI/CD &middot; Strategy
+:material-tag-multiple: Python &middot; Bash &middot; DITA-XML &middot; Analytics
 
 [View case study →](portfolio/case-studies.md)

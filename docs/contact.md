@@ -4,7 +4,7 @@ I'm always open to discussing new projects, opportunities, or just chatting abou
 
 <div class="contact-links">
 
-<a href="mailto:himani.sharma@email.com" class="contact-link">
+<a href="mailto:himani.sharma2199@gmail.com" class="contact-link">
 :material-email: Email Me
 </a>
 
@@ -12,21 +12,21 @@ I'm always open to discussing new projects, opportunities, or just chatting abou
 :fontawesome-brands-github: GitHub
 </a>
 
-<a href="https://linkedin.com/in/himani-sharma" class="contact-link" target="_blank">
+<a href="https://linkedin.com/in/himani698/" class="contact-link" target="_blank">
 :fontawesome-brands-linkedin: LinkedIn
-</a>
-
-<a href="https://twitter.com/himani_sharma" class="contact-link" target="_blank">
-:fontawesome-brands-x-twitter: Twitter / X
 </a>
 
 </div>
 
 ## Let's Work Together
 
-Whether you need API documentation, user guides, developer tutorials, or a complete documentation strategy, I'd love to hear about your project.
+Whether you need API documentation, user guides, developer tutorials, or documentation automation, I'd love to hear about your project.
 
-**Email:** himani.sharma@email.com
+**Email:** himani.sharma2199@gmail.com
+
+**Phone:** +91-9818395168
+
+**Location:** New Delhi, India
 
 **Response time:** I typically respond within 24 hours on business days.
 

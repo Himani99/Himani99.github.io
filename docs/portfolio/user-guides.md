@@ -1,37 +1,38 @@
 # User Guides
 
-## Enterprise SSO Migration Guide
+## End-User Documentation &amp; Release Notes at Synopsys
 
-**Client:** SecureAuth Inc.
-**Duration:** 3 months
-**Role:** Technical Writer
+**Client:** Synopsys Inc.
+**Duration:** Sep 2023 – Dec 2025
+**Role:** Technical Product Publication Engineer
 
 ### Challenge
 
-SecureAuth was transitioning enterprise customers from legacy username/password authentication to SAML-based single sign-on. The migration process was complex, and customers needed clear, actionable guidance to avoid downtime and security issues.
+Synopsys required comprehensive end-user documentation for complex EDA (Electronic Design Automation) tools. The documentation needed to cover user guides, installation guides, application notes, and Quick Tip videos — all created using structured authoring with DITA-XML.
 
 ### Approach
 
-1. **Shadowed Support Engineers:** Spent a week observing support calls to understand common pain points and failure modes.
-2. **Task-Based Structure:** Organized the guide around user tasks rather than product features—what the reader needs to do, not what the product can do.
-3. **Visual Decision Trees:** Created flowcharts to help administrators choose the right migration path based on their current setup.
-4. **Rollback Procedures:** Included comprehensive rollback steps for each migration phase.
-5. **Peer Review:** Had the guide reviewed by 3 support engineers and 2 customers before publication.
+1. **Structured Authoring:** Created end-user documentation and release notes using DITA-XML in Oxygen XML, ensuring consistency across all content types.
+2. **UI/UX Writing:** Applied UI/UX writing principles to craft intuitive user-centered content for web and in-app experiences.
+3. **Full Documentation Lifecycle:** Managed the complete process from requirement gathering through drafting, review, and publishing.
+4. **Cross-Team Collaboration:** Worked with R&amp;D, AE, and QA teams for technical insights and product update alignment.
+5. **Multimedia Content:** Produced Quick Tip videos using Camtasia, SnagIt, and iSpeak for visual learners.
 
 ### Deliverables
 
-- 45-page migration guide (PDF + web)
-- Quick-reference checklist (1-page)
-- Troubleshooting FAQ (20+ entries)
-- Video walkthrough script (15 minutes)
-- Email notification templates for end-users
+- User guides with DITA-XML structured content
+- Installation and configuration guides
+- Application notes for specific use cases
+- Quick Tip video tutorials
+- Release notes for each product version
+- Online Help systems
 
 ### Impact
 
-- **30% reduction** in migration-related support tickets
-- **Zero escalations** during the first month of rollout
-- Guide adopted as template for future product migrations
+- Reduced manual OLH build check-in effort by 40% through automation
+- Improved documentation analytics (CTR, engagement, top pages) to guide content strategy
+- Consistent content across all documentation types through structured authoring
 
 ### Tools Used
 
-MadCap Flare, Confluence, Lucidchart, Google Docs, Markdown
+DITA-XML, Oxygen XML, Camtasia, SnagIt, iSpeak, Jira, Confluence, CMS tools

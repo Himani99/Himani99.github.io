@@ -1,8 +1,8 @@
 site_name: Himani Sharma — Technical Writer
-site_description: Professional portfolio of Himani Sharma, an experienced technical writer specializing in API documentation, developer content, and documentation strategy.
-site_url: https://himanisharma.github.io
-repo_url: https://github.com/Himani99/himanisharma.github.io
-repo_name: Himani99/himanisharma.github.io
+site_description: Technical Writer specializing in API documentation, DITA-XML, structured authoring, and developer content.
+site_url: https://Himani99.github.io
+repo_url: https://github.com/Himani99/Himani99.github.io
+repo_name: Himani99/Himani99.github.io
 edit_uri: ""
 
 theme:
@@ -47,17 +47,13 @@ extra:
       link: https://github.com/Himani99
       name: Himani99 on GitHub
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/himani-sharma
+      link: https://linkedin.com/in/himani698/
       name: Himani Sharma on LinkedIn
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/himani_sharma
-      name: "@himani_sharma"
 
 plugins:
   - search
   - minify:
       minify_html: true
-  - git-authors
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -90,8 +86,8 @@ nav:
     - Case Studies: portfolio/case-studies.md
   - Blog:
     - blog/index.md
-    - Writing for Developers: blog/posts/writing-for-developers.md
-    - Documentation Strategy: blog/posts/documentation-strategy.md
+    - Structured Authoring with DITA-XML: blog/posts/structured-authoring-dita.md
+    - Automating Documentation with Python: blog/posts/automating-docs-python.md
   - Services: services.md
   - Testimonials: testimonials.md
   - Resume: resume.md
