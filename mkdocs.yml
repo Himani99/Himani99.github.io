@@ -1,0 +1,98 @@
+site_name: Himani Sharma — Technical Writer
+site_description: Professional portfolio of Himani Sharma, an experienced technical writer specializing in API documentation, developer content, and documentation strategy.
+site_url: https://himanisharma.github.io
+repo_url: https://github.com/Himani99/himanisharma.github.io
+repo_name: Himani99/himanisharma.github.io
+edit_uri: ""
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - header.autohide
+  icon:
+    logo: material/feather
+  font:
+    text: Inter
+    code: JetBrains Mono
+  custom_dir: overrides
+
+extra:
+  author:
+    name: Himani Sharma
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Himani99
+      name: Himani99 on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/himani-sharma
+      name: Himani Sharma on LinkedIn
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/himani_sharma
+      name: @himani_sharma
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-authors
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+
+extra_css:
+  - stylesheets/custom.css
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio:
+    - portfolio/index.md
+    - API Documentation: portfolio/api-docs.md
+    - User Guides: portfolio/user-guides.md
+    - Case Studies: portfolio/case-studies.md
+  - Blog:
+    - blog/index.md
+    - Writing for Developers: blog/posts/writing-for-developers.md
+    - Documentation Strategy: blog/posts/documentation-strategy.md
+  - Services: services.md
+  - Testimonials: testimonials.md
+  - Resume: resume.md
+  - Contact: contact.md
