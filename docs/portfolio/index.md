@@ -11,7 +11,7 @@ A selection of my work across API documentation, developer tools, and documentat
 <div class="card-tech">
 <span>GitBook</span><span>REST APIs</span><span>Confluence</span><span>Payments</span>
 </div>
-<a href="api-docs.md" class="card-link">View case study →</a>
+<a href="api-docs/" class="card-link">View case study →</a>
 </div>
 
 <div class="portfolio-card">
@@ -21,7 +21,7 @@ A selection of my work across API documentation, developer tools, and documentat
 <div class="card-tech">
 <span>React.js</span><span>D3.js</span><span>Mermaid</span><span>Tailwind</span>
 </div>
-<a href="case-studies.md" class="card-link">View case study →</a>
+<a href="case-studies/" class="card-link">View case study →</a>
 </div>
 
 <div class="portfolio-card">
@@ -31,7 +31,7 @@ A selection of my work across API documentation, developer tools, and documentat
 <div class="card-tech">
 <span>Python</span><span>Bash</span><span>DITA-XML</span><span>Oxygen XML</span>
 </div>
-<a href="api-docs.md" class="card-link">View case study →</a>
+<a href="api-docs/" class="card-link">View case study →</a>
 </div>
 
 <div class="portfolio-card">
@@ -41,7 +41,7 @@ A selection of my work across API documentation, developer tools, and documentat
 <div class="card-tech">
 <span>DITA-XML</span><span>Oxygen XML</span><span>Camtasia</span><span>SnagIt</span>
 </div>
-<a href="user-guides.md" class="card-link">View case study →</a>
+<a href="user-guides/" class="card-link">View case study →</a>
 </div>
 
 <div class="portfolio-card">
@@ -51,7 +51,7 @@ A selection of my work across API documentation, developer tools, and documentat
 <div class="card-tech">
 <span>User Guide</span><span>FAQ</span><span>Troubleshooting</span>
 </div>
-<a href="apiwiz-assignment.md" class="card-link">View case study →</a>
+<a href="apiwiz-assignment/" class="card-link">View case study →</a>
 </div>
 
 </div>
