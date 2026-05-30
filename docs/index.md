@@ -5,7 +5,7 @@ hide:
 
 <div class="hero-card">
 <div class="hero-name">Himani Sharma</div>
-<div class="hero-tagline">Technical Writer &amp;mdash; Making Complex Things Clear</div>
+<div class="hero-tagline">Technical Writer &mdash; Making Complex Things Clear</div>
 <div class="hero-cta">
 <a href="portfolio/" class="md-button md-button--primary">View Portfolio</a>
 <a href="contact/" class="md-button">Get in Touch</a>
