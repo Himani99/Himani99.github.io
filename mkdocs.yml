@@ -84,6 +84,7 @@ nav:
     - API Documentation: portfolio/api-docs.md
     - User Guides: portfolio/user-guides.md
     - Case Studies: portfolio/case-studies.md
+    - APIwiz Assessment: portfolio/apiwiz-assignment.md
   - Blog:
     - blog/index.md
     - Structured Authoring with DITA-XML: blog/posts/structured-authoring-dita.md

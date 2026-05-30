@@ -44,4 +44,14 @@ A selection of my work across API documentation, developer tools, and documentat
 <a href="user-guides.md" class="card-link">View case study →</a>
 </div>
 
+<div class="portfolio-card">
+<div class="card-category">Technical Writing Assessment</div>
+<div class="card-title">APIwiz Documentation Portfolio</div>
+<div class="card-description">Completed technical writing assessment covering a Docuwiz user guide, TaskFlow FAQ (20 entries), and TaskFlow troubleshooting guide (18 issues).</div>
+<div class="card-tech">
+<span>User Guide</span><span>FAQ</span><span>Troubleshooting</span>
+</div>
+<a href="apiwiz-assignment.md" class="card-link">View case study →</a>
+</div>
+
 </div>
