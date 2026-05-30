@@ -35,13 +35,13 @@ A selection of my work across API documentation, developer tools, and documentat
 </div>
 
 <div class="portfolio-card">
-<div class="card-category">Product Documentation</div>
-<div class="card-title">End-User Documentation &amp; Release Notes</div>
-<div class="card-description">Created comprehensive user guides, installation guides, application notes, and Quick Tip videos using DITA-XML.</div>
+<div class="card-category">User Guides</div>
+<div class="card-title">User Guides &amp; Product Documentation</div>
+<div class="card-description">Comprehensive user guides including a complete Docuwiz.io platform guide and DITA-XML structured documentation.</div>
 <div class="card-tech">
-<span>DITA-XML</span><span>Oxygen XML</span><span>Camtasia</span><span>SnagIt</span>
+<span>Docuwiz.io</span><span>DITA-XML</span><span>Oxygen XML</span><span>Camtasia</span>
 </div>
-<a href="user-guides/" class="card-link">View case study →</a>
+<a href="user-guides/" class="card-link">View case studies →</a>
 </div>
 
 <div class="portfolio-card">

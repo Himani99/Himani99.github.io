@@ -416,3 +416,7 @@ This assessment demonstrates proficiency in three core technical writing skills:
 ### Tools & Standards
 
 Microsoft Writing Style Guide, Google Docs, User Journey Mapping, Information Architecture, FAQ Design, Troubleshooting Methodology, Markdown
+
+### Download
+
+[Download Full Docuwiz User Guide (PDF)](../assets/docuwiz-user-guide.pdf) — View the complete user guide in the [User Guides](user-guides.md) section.

@@ -1,5 +1,43 @@
 # User Guides
 
+## Docuwiz.io User Guide
+
+**Client:** APIwiz (Technical Writing Assessment)
+**Duration:** 3 days
+**Role:** Technical Writer Candidate
+**Deliverable:** [Download Full User Guide (PDF)](../assets/docuwiz-user-guide.pdf)
+
+### Overview
+
+Created a comprehensive user guide manual for Docuwiz.io, a documentation platform for creating and managing guides, API references, and recipes. The guide follows the Microsoft Writing Style Guide and is structured as a user journey from account creation through publishing.
+
+### Guide Structure
+
+| Chapter | Content |
+|---------|---------|
+| 1. About This Guide | Product overview, intended audience, prerequisites |
+| 2. Getting Started | Account creation via Google, GitHub, or manual sign-up |
+| 3. Onboarding Flow | Dashboard navigation, overview dashboard, quick actions |
+| 4. Creating and Managing Guides | Documentation workspace, revisions, import, table of contents |
+| 5. Creating API References | Endpoints, importing OpenAPI specs, publishing |
+| 6. Building Recipes | Combining guides and endpoints into guided workflows |
+| 7. Managing Categories | Organizing content for readers |
+| 8. Configuring Workspace Settings | General settings, team management, source control, portal customization |
+| 9. Troubleshooting | Common issues and resolutions |
+| 10. Glossary | Key terminology |
+| 11. Contact Support | Escalation paths |
+
+### Writing Standards Applied
+
+- Microsoft Writing Style Guide — active voice, present tense, consistent terminology
+- User journey format — step-by-step navigation for new users
+- Proper headings, lists, notes, tips, and warning callouts
+- Glossary of platform-specific terms
+
+[Download Full User Guide (PDF)](../assets/docuwiz-user-guide.pdf)
+
+---
+
 ## End-User Documentation &amp; Release Notes at Synopsys
 
 **Client:** Synopsys Inc.
